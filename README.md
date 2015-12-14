@@ -10,7 +10,7 @@ linux basics
 7> disk management    
 8> user and group management   
 9> lvm    
-10> remote login ssh
+10> remote login ssh   
 11> ftp   
 12> nfs    
 13> http    
