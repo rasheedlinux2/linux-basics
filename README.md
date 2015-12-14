@@ -18,3 +18,5 @@ linux basics
 
 
 <h1 id=hist> Linux History </h1>   
+
+http://trainings.bkpit.com
