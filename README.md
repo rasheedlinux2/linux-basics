@@ -1,10 +1,10 @@
 # linux-basics
 linux basics
 
-1> linux history
-2> file system and file structure 
-3> installation
-4> basic file permissions
+1> linux history      
+2> file system and file structure        
+3> installation    
+4> basic file permissions   
 5> special permissions
 6> package management
 7> disk management
