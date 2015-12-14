@@ -1,7 +1,7 @@
 # linux-basics
 linux basics
 
-1> linux history      
+1> <a href=#hist>linux history</a>         
 2> file system and file structure        
 3> installation    
 4> basic file permissions      
