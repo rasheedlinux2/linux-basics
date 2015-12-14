@@ -11,7 +11,7 @@ linux basics
 8> user and group management   
 9> lvm    
 10> remote login ssh
-11> ftp
-12> nfs
-13> http
-14> clustering
+11> ftp   
+12> nfs    
+13> http    
+14> clustering    
